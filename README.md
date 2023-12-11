@@ -11,12 +11,9 @@
 ## Идейные вдохновители
 
 **Продукт-конкурент 1**:
-- [Официальный сайт](http://konkurent.com/ "Официальный сайт")
-- ![Картинка](https://1.bp.blogspot.com/-1yW0TC1Vm5A/YIP2J84XJkI/AAAAAAAAGYA/K9HU5bjObOExIm3ycSN9W030NZsPJnJTwCNcBGAsYHQ/s200/bonus%2Bjalan2.png "Подсказка")
+- [Официальный сайт]([http://konkurent.com/](https://store.steampowered.com/app/1517340/From_The_Darkness/ "Официальный сайт")
+- ![Картинка](capsule_616x353.png "Подсказка")
 
-**Продукт-конкурент 2**:
-- [Официальный сайт](http://konkurent.com/ "Официальный сайт")
-- ![Картинка](https://1.bp.blogspot.com/-1yW0TC1Vm5A/YIP2J84XJkI/AAAAAAAAGYA/K9HU5bjObOExIm3ycSN9W030NZsPJnJTwCNcBGAsYHQ/s200/bonus%2Bjalan2.png "Подсказка")
 
 
 ## Системные требования
@@ -62,12 +59,15 @@ pyinstaller --onefile --noconsole main.py
 
 
 ### Изображения:
-- [diver.png](https://cdn4.vectorstock.com/i/1000x1000/94/83/diver-boy-swimming-sprite-vector-3509483.jpg)
+- [diver.png](kandinsky-download-1702248139080.png)
+- [diver.png](kandinsky-download-1702302999623.png)
+- [diver.png](kandinsky-download-1702302755348.png)
+- [diver.png](kandinsky-download-1702303201782.png)
+
 
 ## Авторы проекта
 
 ### Андрианов Вячеслав Валерьевич (ака STERTAL45)
-Описание этого человека, кто он, что делал в проекте, сильные стороны
+Часть игровых локаций, сюжет.
 ### Сердюк Елизавета Андреевна (ака liza-chon)
-Описание этого человека, кто он, что делал в проекте, сильные стороны
-
+Часть игоровых локаций.
