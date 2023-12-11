@@ -12,7 +12,7 @@
 
 **Продукт-конкурент 1**:
 - [Официальный сайт]([http://konkurent.com/](https://store.steampowered.com/app/1517340/From_The_Darkness/ "Официальный сайт")
-- ![Картинка](capsule_616x353.png "Подсказка")
+![Картинка](capsule_616x353.png "Подсказка")
 
 
 
