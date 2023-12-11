@@ -11,7 +11,7 @@
 ## Идейные вдохновители
 
 **Продукт-конкурент 1**:
-- [From The Darkness]([http://konkurent.com/](https://store.steampowered.com/app/1517340/From_The_Darkness/ "Официальный сайт")
+- [From The Darkness]([http://konkurent.com/](https://store.steampowered.com/app/1517340/From_The_Darkness/ "From The Darkness")
 
 
 
