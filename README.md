@@ -59,10 +59,10 @@ pyinstaller --onefile --noconsole main.py
 
 
 ### Изображения:
-- [diver.png](kandinsky-download-1702248139080.png)
-- [diver.png](kandinsky-download-1702302999623.png)
-- [diver.png](kandinsky-download-1702302755348.png)
-- [diver.png](kandinsky-download-1702303201782.png)
+![diver.png](kandinsky-download-1702248139080.png "cкрин3")
+![diver.png](kandinsky-download-1702302999623.png "cкрин4")
+![diver.png](kandinsky-download-1702302755348.png "cкрин5")
+![diver.png](kandinsky-download-1702303201782.png "cкрин6")
 
 
 ## Авторы проекта
